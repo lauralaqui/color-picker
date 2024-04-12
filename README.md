@@ -29,29 +29,22 @@
   </p>
 </div>
 
-<!-- GETTING STARTED -->
-## Quick Start
-
-  ```sh
-  npm install
-  npm start
-  ```
-
-<a target="_blank" href="https://icons8.com/icon/1Z98daJaQYUc/rainbow" rel="noopener noreferrer">Rainbow</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![a home journal screen shot](./colorpickerscreenshot.png)
+![a home journal screenshot](./colorpickerscreenshot.png)
 
-<p>The initial version of this project was created as part of a <a href="https://scrimba.com/" target="_blank" rel="noopener noreferrer"> Scrimba</a> tutorial.</p>
+The initial version of this project was created as part of a <a href="https://scrimba.com/" target="_blank" rel="noopener noreferrer"> Scrimba</a> tutorial.
 
 Requirements:
 
 * Clicking the button makes a GET request from The Color API to get color scheme
 * Use fetch ()
-* Choose "seed color" with an <input type="color />
-* Choose color scheme mode in a <select> box
+* Choose "seed color" with an input type="color"
+* Choose color scheme mode in a select box
 * Display the hex values and colors in the page
+
+<br>
+<a target="_blank" href="https://icons8.com/icon/1Z98daJaQYUc/rainbow" rel="noopener noreferrer">Rainbow</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
