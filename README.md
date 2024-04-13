@@ -23,7 +23,8 @@
 
   <p align="center">
     Generate a color scheme<br>
-    Built with Javascript and <a href="https://www.thecolorapi.com/" target="_blank" rel="noopener noreferrer">ColorAPI</a>
+    Built with Javascript and <a href="https://www.thecolorapi.com/" target="_blank" rel="noopener noreferrer">ColorAPI</a><br>
+      <a href="https://color-picker-llaqui.netlify.app/" target="_blank" rel="noopener noreferrer">View Demo</a>
   </p>
 </div>
 
